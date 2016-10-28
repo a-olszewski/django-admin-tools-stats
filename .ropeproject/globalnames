@@ -1,0 +1,11 @@
+€}q(Uadmin_tools_stats.migrations]U demoproject.demoproject.settings]q(UADMIN_TOOLS_MENUqUMANAGERSqUBOWER_COMPONENTS_ROOTqU	DATABASESqUSITE_IDqUADMIN_TOOLS_APP_INDEX_DASHBOARDqUADMIN_MEDIA_PREFIXq	UROOT_URLCONFq
+ULANGUAGE_CODEqUUSE_I18NqU
+SECRET_KEYqUMIDDLEWARE_CLASSESqU	TEMPLATESqUBOWER_INSTALLED_APPSqUSTATIC_ROOTqU	TIME_ZONEqUTEMPLATE_LOADERSqUWSGI_APPLICATIONqUALLOWED_HOSTSqUADMIN_TOOLS_INDEX_DASHBOARDqUPROJECT_ROOTqULOGGINGqUSTATICFILES_FINDERSqU
+BOWER_PATHqU
+STATIC_URLqUUSE_L10NqUDEBUGqUAPPLICATION_DIRqUUSE_TZqUINSTALLED_APPSq U
+MEDIA_ROOTq!USTATICFILES_DIRSq"UADMINSq#UTEMPLATE_CONTEXT_PROCESSORSq$U	MEDIA_URLq%eUdemoproject.manage]Uadmin_tools_stats.admin]q&(UDashboardStatsAdminq'UDashboardStatsCriteriaAdminq(eUadmin_tools_stats.utils]q)(UChoiceq*UBaseAuthenticatedClientq+Ubuild_test_suite_fromq,eUconf]q-(Uprojectq.Usource_suffixq/U	copyrightq0Utemplates_pathq1Ulatex_documentsq2Upygments_styleq3Uexclude_patternsq4U	man_pagesq5Uhtmlhelp_basenameq6Uversionq7U
+extensionsq8Uhtml_static_pathq9U
+html_themeq:Ureleaseq;U
+master_docq<eU:admin_tools_stats.south_migrations.0002_add_sum_field_name]q=U	Migrationq>aUadmin_tools_stats.models]q?(UDashboardStatsCriteriaq@U	operationqAUDashboardStatsqBeUdemoproject.dashboard]qC(UCustomAppIndexDashboardqDUCustomIndexDashboardqEeU@admin_tools_stats.south_migrations.0003_add_operation_field_name]qFh>aUdemoproject.demoproject.wsgi]qGUapplicationqHaU#admin_tools_stats.app_label_renamer]qIUAppLabelRenamerqJaU)admin_tools_stats.migrations.0001_initial]qKh>aU9admin_tools_stats.south_migrations.0001_initial_migration]qLh>aUdemoproject.demoproject.urls]qMUurlpatternsqNaUadmin_tools_stats]Udemoproject.demoproject]Udemoproject.menu]qOU
+CustomMenuqPaU"admin_tools_stats.south_migrations]Udemoproject]Uadmin_tools_stats.modules]qQ(U	get_titleqRUDashboardChartsqSUget_dynamic_criteriaqTUget_active_graphqUUDashboardChartqVeUsetup]qW(Uparse_dependency_linksqXUreadqYUparse_requirementsqZUruntestsq[eUdemoproject.demoproject.views]q\Uhomeq]aUadmin_tools_stats.tests]q^(U%AdminToolsStatsAdminInterfaceTestCaseq_UAdminToolsStatsAdminChartsq`UAdminToolsStatsModelqaeUdemoproject.test_settings]qb(h
+hhhUFIXTURE_DIRSqceu.
